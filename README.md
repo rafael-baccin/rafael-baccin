@@ -21,7 +21,7 @@
 
 ###
 
-<p align="left">- 🌎 I'm from Brazil<br>- 📚 I'm currently learning Rust!<br>- ⚡ In my free time i run and go to the gym!</p>
+<p align="left">- 🌎 Brazil<br>- 📚 I'm currently learning C!<br>- ⚡ I'm heavily into open-source projects and linux!!</p>
 
 ###
 
